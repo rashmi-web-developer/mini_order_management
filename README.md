@@ -22,12 +22,12 @@ It includes a RESTful API backend and a simple Vue 3 frontend using Axios and Ta
     cp .env.example .env &&
     php artisan key:generate
 
-4. **Run migrations :**
+5. **Run migrations :**
     php artisan migrate
 
-5. **Run the development servers :**
+6. **Run the development servers :**
     php artisan serve &&
     npm run dev
 
-6. **Visit the app :**
+7. **Visit the app :**
     http://localhost:8000
