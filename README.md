@@ -22,7 +22,7 @@ It includes a RESTful API backend and a simple Vue 3 frontend using Axios and Ta
     php artisan migrate
 
 5. **Run the development servers :**
-    php artisan serve
+    php artisan serve &&
     npm run dev
 
 6. **Visit the app :**
