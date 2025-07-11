@@ -18,6 +18,10 @@ It includes a RESTful API backend and a simple Vue 3 frontend using Axios and Ta
 3. **Install Node dependencies :**
     npm install
 
+4. **Set up environment variables :**
+    cp .env.example .env &&
+    php artisan key:generate
+
 4. **Run migrations :**
     php artisan migrate
 
