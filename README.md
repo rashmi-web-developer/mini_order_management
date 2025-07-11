@@ -7,23 +7,23 @@ It includes a RESTful API backend and a simple Vue 3 frontend using Axios and Ta
 
 ## 🚀 Installation
 
-1. **Clone the repository**
+1. **Clone the repository :**
    ```bash
    git clone https://github.com/rashmi-web-developer/mini_order_management
    cd mini_order_management
 
-2. **Install PHP dependencies**
+2. **Install PHP dependencies :**
     composer install
 
-3. **Install Node dependencies**
+3. **Install Node dependencies :**
     npm install
 
-4. **Run migrations**
+4. **Run migrations :**
     php artisan migrate
 
-5. **Run the development servers**
+5. **Run the development servers :**
     php artisan serve
     npm run dev
 
-6. **Visit the app**
+6. **Visit the app :**
     http://localhost:8000
